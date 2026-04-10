@@ -1,1 +1,1 @@
-# sorvete-teste
+# java-sorvete-server
